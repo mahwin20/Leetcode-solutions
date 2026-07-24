@@ -8,6 +8,7 @@
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/mahwin20/Leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0680-valid-palindrome-ii](https://github.com/mahwin20/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
