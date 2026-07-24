@@ -26,4 +26,9 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/mahwin20/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/mahwin20/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/mahwin20/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
