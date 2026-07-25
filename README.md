@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahwin20/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/mahwin20/Leetcode-solutions/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/mahwin20/Leetcode-solutions/tree/master/0029-divide-two-integers) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/mahwin20/Leetcode-solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
