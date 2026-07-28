@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mahwin20/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/mahwin20/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahwin20/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/mahwin20/Leetcode-solutions/tree/master/0039-combination-sum) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahwin20/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahwin20/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
